@@ -10,6 +10,12 @@ public class BelajargitmergeApplication {
 		SpringApplication.run(BelajargitmergeApplication.class, args);
 
 		System.out.println("Hello World");
+
+		 int angka=1;
+
+		 int  jumlah = angka + angka;
+
+		System.out.println("hasil penjumlahan" + angka);
 	}
 
 }
