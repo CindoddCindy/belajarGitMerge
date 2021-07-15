@@ -8,6 +8,8 @@ public class BelajargitmergeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BelajargitmergeApplication.class, args);
+
+		System.out.println("Hello World");
 	}
 
 }
