@@ -11,10 +11,18 @@ public class BelajargitmergeApplication {
 
 		System.out.println("Hello World");
 
-		String angka =" 1";
+<<<<<<< HEAD
+		int angka =" 1";
 
-		String jumlah = angka + angka;
+		int jumlah = angka + angka;
 		System.out.println("Hasil Penjumlahan " + jumlah);
+=======
+		 int angka=1;
+
+		 int  jumlah = angka + angka;
+
+		System.out.println("hasil penjumlahan" + angka);
+>>>>>>> main
 	}
 
 }
